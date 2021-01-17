@@ -1,1 +1,1 @@
-<svg\ onload=alert()/>
+script>alert(123)</script
