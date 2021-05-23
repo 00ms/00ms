@@ -3,17 +3,17 @@
 </div>  
   
 
-### <div align="center">I'm Jithu, a Dumb developer , noob pentester 👨‍💻 I don't work 🚀</div>  
+### <div align="center">I'm K3NEL</div>  
   
 
 - 
-🔬 I'm currently working on Botnet  
+🔬 I'm currently working on SAGA(Botnet)  
   
 
-- 🌱 I’m currently learning C++  
+- 🌱 I’m currently learning Binary
   
 
-- ❓ Ask me about anything related to  technologies  
+- ❓ Ask me about anything related to me  
   
 
 - ⚡ Fun fact: I am a good boy  
@@ -22,25 +22,7 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -63,7 +45,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=discodancer212&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?usernamek3nel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -77,7 +59,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=discodancer212&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=k3nel&&style=flat-square" align="center" />
 </div>  
   
 
