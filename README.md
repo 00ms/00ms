@@ -7,7 +7,7 @@
   
 
 - 
-🔬 I'm currently working on SAGA(Botnet)  
+🔬 I'm currently working on SAGA
   
 
 - 🌱 I’m currently learning Binary
@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to me  
   
 
-- ⚡ Fun fact: I am a good boy  
+
   
 
 <br/>  
