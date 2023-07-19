@@ -9,5 +9,5 @@
 </div>  
 
 <img align="right" alt="00" width="400" src="https://media.discordapp.net/attachments/972488942580539462/1039345936519934052/52BC9116-ECD7-471A-9374-1D3A0555F522.gif?width=307&height=307">
-<img align="left" alt="100" width="300" src="https://cdn.discordapp.com/attachments/972488942580539462/1053763840518656021/lkj.gif">
+<img align="left" alt="100" width="400" src="https://cdn.discordapp.com/attachments/972488942580539462/1053763840518656021/lkj.gif">
 
