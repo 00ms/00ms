@@ -1,71 +1,12 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm K3NEL</div>  
-  
-
-- 
-🔬 I'm currently working on SAGA
-  
-
-- 🌱 I’m currently learning Binary
-  
-
-- ❓ Ask me about anything related to me  
-  
-
-
-  
-
-<br/>  
-
-
-
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/69bit" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username00ms&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313gcrzcsrhipxdsjuqde4mkocdm&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=k3nel&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
+<br/>
 <div align="center">
-            <a href="https://www.buymeacoffee.com/discodancer212" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+<a href="https://discord.com/users/1nstaller" target="_blank">
+<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=green alt=discord style="margin-bottom: 100px;" />
+</a>
+</div>  
 
-----
+<img align="right" alt="00" width="500" src="https://media.discordapp.net/attachments/972488942580539462/1039345936519934052/52BC9116-ECD7-471A-9374-1D3A0555F522.gif?width=307&height=307">
+<img align="left" alt="100" width="500" src="https://cdn.discordapp.com/attachments/972488942580539462/1053763840518656021/lkj.gif">
